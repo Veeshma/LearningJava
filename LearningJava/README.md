@@ -1,4 +1,4 @@
-# kata-jan18-tdd-vehicle
+# Vehicle
   * Practice TDD & Pair Programming
   
 # This kata focuses on:
